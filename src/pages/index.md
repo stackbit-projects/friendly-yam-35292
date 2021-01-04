@@ -14,7 +14,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: An optional subtitle of the section
+    subtitle: Some of the projects I've worked on recently
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
