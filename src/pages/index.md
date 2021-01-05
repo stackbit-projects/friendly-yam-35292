@@ -21,7 +21,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What I Offer
-    subtitle: How we can serve you as a business
+    subtitle: How me & my team can serve you as a business
     col_number: two
     is_numbered: true
     grid_items:
