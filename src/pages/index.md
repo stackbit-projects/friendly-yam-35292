@@ -50,7 +50,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
-      - author: Justin Basini (CEO ClearScore)
+      - author: 'Justin Basini (ClearScore, CEO)'
         avatar: images/sean_salazar.jpg
         content: >-
           Alfie was a great addition to the ClearScore team. I was impressed by
