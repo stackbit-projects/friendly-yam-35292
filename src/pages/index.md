@@ -54,7 +54,7 @@ sections:
         avatar: images/sean_salazar.jpg
         content: >-
           Alfie was a great addition to the ClearScore team. I was impressed by
-          his level of engagement.
+          his level of engagement. I would recommend Alfie
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-
