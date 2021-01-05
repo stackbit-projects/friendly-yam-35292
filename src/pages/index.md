@@ -62,8 +62,8 @@ sections:
         avatar: images/deegan_wallace.jpg
         content: >-
           This year has been turbulent & required a no. of features to be
-          delivered inr ecord time. ClearScore Resove & the Covid-hub. Alfie was
-          key to
+          delivered in record time. ClearScore Resove & the Covid-hub. Alfie was
+          key to getting these both launched
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
