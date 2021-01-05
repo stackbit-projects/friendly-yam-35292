@@ -20,7 +20,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: What I Offer
     subtitle: How we can serve you as a business
     col_number: two
     is_numbered: true
