@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Alfie Darko of Waterwhipped Labs.'
-    content: I help startups build money-generating digital products
+    content: We help startups build money-generating digital products
     actions:
       - label: Let's talk
         url: /contact
