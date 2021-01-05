@@ -62,8 +62,8 @@ sections:
         avatar: images/1516279723049.jpeg
         content: >-
           This year has been turbulent & required a no. of features to be
-          delivered in record time. ClearScore Resove & the Covid-hub. Alfie was
-          key to getting these both launched
+          delivered in record time. ClearScore Resove & the Covid-hub. Alfie
+          [Waterwhipped labs] was key to getting these both launched
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
