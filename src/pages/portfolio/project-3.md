@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: ClickCleanit
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/Screenshot 2021-01-04 at 18.07.16.png
