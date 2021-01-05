@@ -58,7 +58,7 @@ sections:
       - author: 'David Merriles (Tesco, Principle Dev)'
         avatar: images/aubrey_hoover.jpg
         content: "Alfie is an expert frontend developer. He helped develop and maintain the Tesco Grocery website, always coaxing the best from us.\_I recommend Alfie to any prospective client."
-      - author: Deegan Wallace
+      - author: 'Klaus Thorp (ClearScore, CTO)'
         avatar: images/deegan_wallace.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
