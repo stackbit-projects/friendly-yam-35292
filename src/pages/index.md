@@ -55,7 +55,7 @@ sections:
         content: >-
           Alfie was a great addition to the ClearScore team. I was impressed by
           his level of engagement. I would recommend Alfie
-      - author: David Merriles
+      - author: David Merriles (Principle Dev
         avatar: images/aubrey_hoover.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
