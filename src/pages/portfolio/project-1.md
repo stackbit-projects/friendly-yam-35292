@@ -1,6 +1,6 @@
 ---
 title: The Black Report
-subtitle: Optional Project Subtitle
+subtitle: A 10x10VC & Google Project
 date: '2019-05-10'
 thumb_image: images/Screenshot 2021-01-04 at 17.45.51.png
 image: images/1.jpg
