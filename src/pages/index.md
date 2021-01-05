@@ -56,7 +56,7 @@ sections:
           Alfie was a great addition to the ClearScore team. I was impressed by
           his level of engagement. I would recommend Alfie
       - author: 'David Merriles (Tesco, Principle Dev)'
-        avatar: images/aubrey_hoover.jpg
+        avatar: images/1516783583531.jpeg
         content: "Alfie is an expert frontend developer. He helped develop and maintain the Tesco Grocery website, always coaxing the best from us.\_I recommend Alfie to any prospective client."
       - author: 'Klaus Thorp (ClearScore, CTO)'
         avatar: images/deegan_wallace.jpg
