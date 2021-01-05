@@ -2,7 +2,7 @@
 title: ClearScore
 subtitle: Design System Audit
 date: '2019-04-30'
-thumb_image: images/Screenshot 2021-01-04 at 17.54.40.png
+thumb_image: images/smartmockups_kjjbqo03.jpg
 image: images/2.jpg
 template: project
 ---
