@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: ClearScore
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/Screenshot 2021-01-04 at 17.54.40.png
