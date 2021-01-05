@@ -1,5 +1,5 @@
 ---
-title: Organise CSS wth BEM
+title: How To Organise CSS with BEM
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
