@@ -51,7 +51,7 @@ sections:
     col_number: three
     testimonials:
       - author: 'Justin Basini (ClearScore, CEO)'
-        avatar: images/sean_salazar.jpg
+        avatar: images/1516270856767.jpeg
         content: >-
           Alfie was a great addition to the ClearScore team. I was impressed by
           his level of engagement. I would recommend Alfie
