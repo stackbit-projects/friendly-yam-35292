@@ -47,7 +47,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Check what my previous clients think about my services
     col_number: three
     testimonials:
       - author: 'Justin Basini (ClearScore, CEO)'
