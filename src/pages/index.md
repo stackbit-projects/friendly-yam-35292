@@ -60,7 +60,9 @@ sections:
         content: "Alfie is an expert frontend developer. He helped develop and maintain the Tesco Grocery website, always coaxing the best from us.\_I recommend Alfie to any prospective client."
       - author: 'Klaus Thorp (ClearScore, CTO)'
         avatar: images/deegan_wallace.jpg
-        content: Awesome Developer.
+        content: >-
+          This year has been turbulent & required a no. of features to be
+          delivered inr ecord time. ClearScore Resove & the Covid-hub
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
