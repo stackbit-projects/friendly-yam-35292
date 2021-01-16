@@ -12,7 +12,9 @@ Waterwhipped Agency was tasked with helping deliver a [10x10 VC](https://10x10vc
 
 ## Context & Challenge
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+We were tasked with delivering a site called [The Black Report](https://theblack.report) that is a Google commissioned piece of work to highlight the Black Business Ecosystem in the UK. 
+
+The project was brought to us by our good friends at Kudoscope who needed additional frontend expertise. It was due to be delivered on Black History Month but being in the middle of the pandemic, things were thrown into slight disarray. We were able to overcome these challenges and deliver an amazing product for Google and 10x10.
 
 ## Process & Insights
 
