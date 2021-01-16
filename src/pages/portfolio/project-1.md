@@ -8,7 +8,7 @@ template: project
 ---
 ## Overview
 
-Tasked with delivering a 10x10 & Google Startups project led by Andy Davis
+Waterwhipped Agency was tasked with helping deliver a [10x10 VC](https://10x10vc.com/) & [Google Startups](https://startup.google.com/) project led by [Andy Davis](https://uk.linkedin.com/in/mrandydavis)
 
 ## Context & Challenge
 
@@ -19,8 +19,6 @@ Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan s
 "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
 Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
-
-
 
 ## The Solution
 
