@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Alfie Darko of Waterwhipped Agency.'
     content: |
-      We help startups & ecommerce businesses scale to seven and eight figures
+      We help startups & ecommerce businesses build 7 & 8 figure brands
     actions:
       - label: Let's talk
         url: /contact
