@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Alfie Darko of Waterwhipped Labs.'
+    title: 'Hi, I''m Alfie Darko of Waterwhipped Agency.'
     content: |
       We help startups & ecommerce businesses scale to seven and eight figures
     actions:
