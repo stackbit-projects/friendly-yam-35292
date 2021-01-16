@@ -2,7 +2,6 @@
 title: ClickCleanit
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/smartmockups_kjjbvuex.jpg
 image: images/3.jpg
 template: project
 ---
