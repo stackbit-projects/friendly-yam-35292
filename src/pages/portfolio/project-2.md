@@ -26,6 +26,8 @@ I presented my findings to the design system teams, senior Clearscore staff and 
 
 ## The Results
 
-Because of the audit, Clearscore were able to identify many areas were accessibility wasnt as strong as it should have been and develop them into tasks that the engineers would pick up. We was also able to show them plugins that they could utilize that could help them overcome accessibility oversites in the future. All this improved their conversion rate and it lead to users with different usability needs being catered for and able to use their digital product.
+Because of the audit, Clearscore were able to identify many areas were accessibility wasnt as strong as it should have been and develop them into tasks that the engineers would pick up. 
+
+We was also able to show them plugins that they could utilize that could help them overcome accessibility oversites in the future. All this improved their conversion rate and it lead to users with different usability needs being catered for and able to use their digital product.
 
 \[insert sales pitch and CTA]
