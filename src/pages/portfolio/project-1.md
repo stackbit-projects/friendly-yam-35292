@@ -18,7 +18,7 @@ The project was brought to us by our good friends at Kudoscope who needed additi
 
 ## Process & Insights
 
-> ##### ***"A engineer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away."***
+> ###### ***"A engineer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away."***
 
 For the development side, we focused on making a decision on the tech stack. We went with [Next.js](https://nextjs.org/) as it made it easy for us to develop react based static sites without having to think about introducing any routing plugins. The built in SSR (Server-side rendering) also helps keep our website quick and nimble for our users. If we want to keep users on our site for longer, making sure your site performs well is important.
 
