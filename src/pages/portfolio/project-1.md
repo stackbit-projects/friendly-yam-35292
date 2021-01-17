@@ -18,15 +18,19 @@ The project was brought to us by our good friends at Kudoscope who needed additi
 
 ## Process & Insights
 
-"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+"A engineer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." 
 
-For the development side, we focused on making a decision on the tech stack. We went with Next JS as it made it easy for us to develop react based static sites. We also utilised the use of Chakra UI component library which I wrote about on [Medium.com](https://medium.com/@AlfieDarko/how-to-build-web-apps-quicker-with-component-libraries-99794052e24f). Picking the best technology is crucial to a successful digital product.
+For the development side, we focused on making a decision on the tech stack. We went with [Next.js](https://nextjs.org/) as it made it easy for us to develop react based static sites without having to think about introducing any routing plugins. The built in SSR (Server-side rendering) also helps keep our website quick and nimble for our users. If we want to keep users on our site for longer, making sure your site performs well is important.
+
+We also utilised the use of Chakra UI component library which I wrote about on [Medium.com](https://medium.com/@AlfieDarko/how-to-build-web-apps-quicker-with-component-libraries-99794052e24f). Picking the best technology is crucial to a successful digital product.
 
 Working with an all-star team of content-writers, researchers, data viz wizards, videographers, developers and designers, all with skin in the game allowed us to combine our visions to create something amazing.
 
 ## The Solution
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+
+
+##
 
 ## The Result
 
