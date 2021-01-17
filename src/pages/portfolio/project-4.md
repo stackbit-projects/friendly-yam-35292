@@ -12,11 +12,11 @@ We helped Tesco build a headless commerce site using NextJS & helped them avoid 
 
 ## The Context & Challenge
 
-Tesco had shut down Tesco Direct & consequently its only site selling PAYG handsets. They were still under contractual obligation to sell a certain providers handsets so had to build a site to offer this. 
+Tesco had shut down Tesco Direct & consequently its only site selling PAYG handsets. They were still under contractual obligation to sell a certain providers handsets so had to build a site to offer this.
 
-We had to build it within 3 months as any longer made them liable to breaching their contracts. 
+We had to build it within 3 months as any longer made them liable to breaching their contracts.
 
-This was our first deep dive into headless commerce so it was integral we got it right. 
+This was our first deep dive into headless commerce so it was integral we got it right.
 
 ## The Process & Insight
 
