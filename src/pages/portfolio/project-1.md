@@ -26,12 +26,12 @@ We also utilised the use of Chakra UI component library which I wrote about on [
 
 Working with an all-star team of content-writers, researchers, data viz wizards, videographers, developers and designers, all with skin in the game allowed us to combine our visions to create something amazing.
 
-## The Solution
+With any great product, there are always iterations. With guidance from design lead [Sahara Jones](https://www.linkedin.com/in/saharajones-visual-designer/), her and the UX team were able to iterate from basic black and write wireframes to serve as layout guides
 
-##
+\[slideshow of wireframes]
 
 ## The Result
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+We were able to deliver this successful project with approval from Google. It was featured in numerous publications including the credible, [Forbes Magazine](https://www.forbes.com/sites/tommywilliams1/2020/10/07/research-from-10x10--google-reveals-black-owned-businesses-more-likely-to-hire-diverse-teams/). 
 
 \[insert sales pitch & CTA to booking form]
