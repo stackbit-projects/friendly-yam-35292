@@ -22,10 +22,10 @@ In the audit, we were able to fully digest and document the whole design system 
 
 Our review of the design system included possible accessibility concerns and mispatterns. Issues of scalability as a system and naming systems, for eg. since they were scaling to the USA, South Africa & India, I noted down how they had to think about adopting globally understood naming systems rather than the current.
 
-I presented my findings to the design system teams, senior Clearscore staff and the CTO. 
+I presented my findings to the design system teams, senior Clearscore staff and the CTO.
 
 ## The Results
 
 Because of the audit, Clearscore were able to identify many areas were accessibility wasnt as strong as it should have been and develop them into tasks that the engineers would pick up. We was also able to show them plugins that they could utilize that could help them overcome accessibility oversites in the future. All this improved their conversion rate and it lead to users with different usability needs being catered for and able to use their digital product.
 
-\[insert sales pitch and CTA
+\[insert sales pitch and CTA]
