@@ -6,13 +6,26 @@ thumb_image: images/Screenshot 2021-01-04 at 17.55.53.png
 image: images/Screenshot 2021-01-04 at 17.49.07.png
 template: project
 ---
+## The Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo eget magna fermentum iaculis eu non diam. Id volutpat lacus laoreet non. Faucibus pulvinar elementum integer enim. Malesuada fames ac turpis egestas integer eget aliquet nibh. Turpis massa sed elementum tempus. Potenti nullam ac tortor vitae purus faucibus. Duis ut diam quam nulla porttitor massa. Ultrices dui sapien eget mi proin sed libero enim. Nibh venenatis cras sed felis eget velit aliquet. Nec ullamcorper sit amet risus nullam. Duis at tellus at urna. Pulvinar elementum integer enim neque. Amet cursus sit amet dictum sit amet justo. Aliquam nulla facilisi cras fermentum odio eu. Cursus in hac habitasse platea dictumst quisque sagittis. Euismod nisi porta lorem mollis aliquam ut porttitor leo.
+We helped Tesco build a headless commerce site using NextJS & helped them avoid a lawsuit.
 
-Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ornare arcu dui vivamus arcu felis bibendum. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Ut sem nulla pharetra diam sit amet nisl suscipit. Fermentum leo vel orci porta. Facilisis volutpat est velit egestas. Et pharetra pharetra massa massa ultricies mi quis. Id aliquet risus feugiat in ante metus dictum at tempor. Magna fermentum iaculis eu non diam phasellus. Tellus cras adipiscing enim eu turpis egestas.
+## The Context & Challenge
 
->"Designers are meant to be loved, not to be understood." - Margaret Oscar
+Tesco had shut down Tesco Direct & consequently its only site selling PAYG handsets. They were still under contractual obligation to sell a certain providers handsets so had to build a site to offer this. 
 
-Orci ac auctor augue mauris augue neque. Id semper risus in hendrerit gravida rutrum quisque. Et leo duis ut diam quam nulla porttitor massa. Condimentum vitae sapien pellentesque habitant morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Hendrerit dolor magna eget est lorem ipsum dolor sit. Ipsum dolor sit amet consectetur. Eu augue ut lectus arcu bibendum at. Etiam non quam lacus suspendisse. Leo integer malesuada nunc vel. Consequat id porta nibh venenatis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
+We had to build it within 3 months as any longer made them liable to breaching their contracts. 
 
-Tortor consequat id porta nibh. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Ante metus dictum at tempor. Consectetur adipiscing elit ut aliquam purus. Mauris in aliquam sem fringilla. Sed adipiscing diam donec adipiscing tristique. Posuere ac ut consequat semper viverra nam libero justo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Molestie nunc non blandit massa enim nec. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Ac turpis egestas integer eget aliquet. Consectetur purus ut faucibus pulvinar elementum integer enim. Quis ipsum suspendisse ultrices gravida dictum fusce. Elit ullamcorper dignissim cras tincidunt lobortis. Non enim praesent elementum facilisis leo vel. Mi ipsum faucibus vitae aliquet nec ullamcorper. Nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit. Senectus et netus et malesuada fames. Massa sed elementum tempus egestas sed sed.
+This was our first deep dive into headless commerce so it was integral we got it right. 
+
+## The Process & Insight
+
+Since the site needed to be fast and supported SSR, we had decided that Next.js was perfect for what we were about to build. We could then use this site as a template to build other micro-sites in the Tesco domain where they only needed to serve a small subset of a type of product.
+
+We opted for functionality first and then incrementally updated the site with more direction from Tesco's design team as things progressed.
+
+## The Results
+
+We were able to ship in time and as a result, [Tesco.com/phones](https://tesco.com/phones) has raked in over £1,000,000 in orders since. Not bad at all.
+
+\[insert sales pitch, cta etc.]
