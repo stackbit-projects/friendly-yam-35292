@@ -26,6 +26,6 @@ We opted for functionality first and then incrementally updated the site with mo
 
 ## The Results
 
-We were able to ship in time and as a result, [Tesco.com/phones](https://tesco.com/phones) has raked in over £1,000,000 in orders since. Not bad at all.
+We were able to ship in time and as a result, [Tesco.com/phones](https://tesco.com/phones) has raked in over £ 7 Figures in orders since. Not bad at all.
 
 \[insert sales pitch, cta etc.]
