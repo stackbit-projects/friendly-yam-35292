@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What we Offer
+    title: What I Offer
     subtitle: How me & my team can serve you as a business
     col_number: two
     is_numbered: true
