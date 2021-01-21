@@ -48,7 +48,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: Check what our previous clients thought about Waterwhipped Labs
+    subtitle: Check what my previous clients thought about my work
     col_number: three
     testimonials:
       - author: 'Justin Basini (ClearScore, CEO)'
