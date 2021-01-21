@@ -28,8 +28,9 @@ sections:
     grid_items:
       - title: Web Development
         content: >
-          Is your business a scaleup that needs additional help building a
-          profitable React web app? This is the service for you.
+          Is your business a scaleup SaaS that needs additional help on the
+          development side? Our service can help you build up massive revenue
+          generating features
       - title: Shopify Development
         content: >
           Are you a budding ecom brand looking to take things to the 6-7 figure
