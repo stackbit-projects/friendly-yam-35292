@@ -31,10 +31,10 @@ sections:
           Is your business a scaleup that needs additional help building a
           profitable React web app? This is the service for you.
       - title: Shopify Development
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Are you a budding ecom brand looking to take things to the 6-7 figure
+          level of revenue? We offer every kind fo Shopify store and app
+          development
       - title: SEO & Digital Marketing
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
