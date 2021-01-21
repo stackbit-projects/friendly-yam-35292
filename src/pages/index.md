@@ -41,7 +41,7 @@ sections:
           We will develop a winning online strategy tailed to assist your scale
           up product / service that can get your offering in front of the right
           buyers.
-      - title: Website Audits
+      - title: Website & Content Management
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
