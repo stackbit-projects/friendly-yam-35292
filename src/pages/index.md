@@ -33,9 +33,9 @@ sections:
           generating features
       - title: Shopify Development
         content: >
-          Are you a budding ecom brand looking to take things to the 6-7 figure
-          level of revenue? We offer every kind fo Shopify store and app
-          development
+          Are you a budding ecom brand looking to consistantly hit 6-7 figure
+          revenue yearly? We offer every kind of Shopify store and app
+          development to assist you on the way there.
       - title: SEO & Digital Marketing
         content: >
           We will develop a winning online strategy tailed to assist your scale
