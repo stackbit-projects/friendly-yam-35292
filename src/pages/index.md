@@ -36,7 +36,7 @@ sections:
           Are you a budding ecom brand looking to consistantly hit 6-7 figure
           revenue yearly? We offer every kind of Shopify store and app
           development to assist you on the way there.
-      - title: SEO & Digital Marketing
+      - title: Digital Strategy
         content: >
           We will develop a winning online strategy tailed to assist your scale
           up product / service that can get your offering in front of the right
