@@ -38,8 +38,9 @@ sections:
           development
       - title: SEO & Digital Marketing
         content: >
-          We can develop a winning online strategy that can get your product or
-          service in the right hands. 
+          We will develop a winning online strategy tailed to assist your scale
+          up product / service that can get your offering in front of the right
+          buyers.
       - title: Code Audits
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
