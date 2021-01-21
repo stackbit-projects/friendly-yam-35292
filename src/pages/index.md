@@ -42,9 +42,10 @@ sections:
           up product / service that can get your offering in front of the right
           buyers.
       - title: Website & Content Management
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Sign up to our service & you won't need to worry about paying extra to
+          keep your site working and up to date. This frees your time to work on
+          your business. 
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
