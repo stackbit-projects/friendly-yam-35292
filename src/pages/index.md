@@ -37,10 +37,9 @@ sections:
           level of revenue? We offer every kind fo Shopify store and app
           development
       - title: SEO & Digital Marketing
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          We can develop a winning online strategy that can get your product or
+          service in the right hands. 
       - title: Code Audits
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
