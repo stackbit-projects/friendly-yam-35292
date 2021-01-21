@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Alfie Darko of Waterwhipped Agency.'
+    title: 'Hi, I''m Alfie Darko, I run Waterwhip Agency'
     content: |
       I help startups & ecommerce businesses build 7 & 8 figure brands
     actions:
