@@ -27,10 +27,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Web Development
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Is your business a scaleup that needs additional help building a
+          profitable React web app? This is the service for you.
       - title: Shopify Development
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
